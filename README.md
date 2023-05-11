@@ -2,7 +2,7 @@
 
 Link para acessar os arquivos: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
-O objetivo deste projeto é realizar uma transformação e processamento massivo nos dados da competição do Kaggle “Home Credit Default Risk” (https://www.kaggle.com/competitions/home-credit-default-risk/data), para enriquecer ainda mais os dados de treino da tabela application_train. Para isso, serão criadas diversas colunas combinando dados históricos transacionais da tabela bureau.csv.
+O objetivo deste projeto é realizar uma transformação e processamento massivo nos dados da competição do Kaggle “Home Credit Default Risk” (https://www.kaggle.com/competitions/home-credit-default-risk/data), para enriquecer ainda mais os dados de treino da tabela application_train. Para isso, serão criadas diversas variáveis explicativas combinando dados históricos transacionais da tabela bureau.csv.
 
 O foco é combinar conceitos para criar variáveis massivamente para gerar mais poder preditivo para um modelo.
 
